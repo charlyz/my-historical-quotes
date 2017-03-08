@@ -1,0 +1,1 @@
+POST 	/get-quotes			@com.appnexus.api.controllers.TickerController.getQuotes()
